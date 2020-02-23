@@ -8,4 +8,4 @@ I don't know where it is
 ## but the bot was+is [here](https://twitter.com/Beep_CongratBot)
 1 person actually replied "thank you"
 ### dependencies
-tweepy.py, twitter api
+[tweepy.py](https://github.com/tweepy/tweepy), twitter api
