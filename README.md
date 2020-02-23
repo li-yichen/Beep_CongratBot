@@ -1,4 +1,4 @@
-[screenshot of twitter profile of twitter bot, the cover picture says "congratulations! i love you"](../master/beep.png)
+![alt text: screenshot of twitter profile of twitter bot, the cover picture says "congratulations! i love you"](../master/beep.png?raw=true)
 ## what does it do?
 it finds strangers who have tweeted (mostly twitter-provided messages) with hashtag #MyTwitterAnniversary and replies "Congratulations" to them.
 ## why does it exist?
