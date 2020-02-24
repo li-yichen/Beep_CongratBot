@@ -8,4 +8,5 @@ I don't know where it is
 #### dependencies
 plz just believe that it was written in python w/ [tweepy.py](https://github.com/tweepy/tweepy) and twitter api
 ## but the bot was+is [here](https://twitter.com/Beep_CongratBot)
-1 person actually replied "thank you"
+1 person actually replied "thank you"  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks alot😊</p>&mdash; Obaid Abbasi🇵🇰 (@oabbasi64) <a href="https://twitter.com/oabbasi64/status/1125384776565841920?ref_src=twsrc%5Etfw">May 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
